@@ -1,0 +1,18 @@
+
+ .container1 {
+     align-items: center;
+     display: flex;
+     flex-direction: column;
+    }
+ .blogpost-1{width: 300px;border: 1px solid black;
+    background-color: rgb(8, 118, 182); 
+    }
+ .container2{
+     align-items: center;
+     display: flex;
+     flex-direction: row;    
+    }
+.blogpost-2{height: 250px;border: 1px solid black;
+    background-color: red;
+    flex-grow: inherit;
+    }
